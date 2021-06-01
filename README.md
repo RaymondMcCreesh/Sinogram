@@ -13,7 +13,8 @@ propogation.
  10) Steps 3-8 are repeated for a hamming window filter and a Hann
 window filter.
 
+##Input:
 ![image](https://user-images.githubusercontent.com/66533812/120348293-f600fa00-c2f4-11eb-969b-72e22f45c277.png)
 
-
+##Output:
 ![image](https://user-images.githubusercontent.com/66533812/120348234-e84b7480-c2f4-11eb-9c92-909e8f21855f.png)
