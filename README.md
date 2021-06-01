@@ -13,4 +13,4 @@ propogation.
  10) Steps 3-8 are repeated for a hamming window filter and a Hann
 window filter.
 
-![alt text](https://github.com/RaymondMcCreesh/Sinogram/blob/main/Sinogram.py?raw=true)
+<img width=“964” alt=“java 8 and prio java 8  array review example” src="https://github.com/RaymondMcCreesh/Sinogram/blob/main/Sinogram.py">
