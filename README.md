@@ -12,3 +12,5 @@ propogation.
  8) The colour channels are resconstructed back to 1 image.
  10) Steps 3-8 are repeated for a hamming window filter and a Hann
 window filter.
+
+![alt text](https://github.com/RaymondMcCreesh/Sinogram/blob/main/Sinogram.py?raw=true)
